@@ -1,0 +1,13 @@
+name: "Aves de Costa Rica"
+navbar:
+  title: "Aves de la Peninsula de Nicoya"
+  left:
+    - text: "Chiroxiphia linearis"
+      href: index.html
+    - text: "Acerca de"
+      href: about.html
+
+output:
+  html_document:
+    theme: cosmo
+    highligth: textmate
